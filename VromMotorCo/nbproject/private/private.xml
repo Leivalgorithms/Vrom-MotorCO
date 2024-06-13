@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordaoandsolo/user.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/VromMotorCo.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordaoandsolo/UserDAOimp.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/VehicleFactory.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/SportCar.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/SportCarFactory.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorobserver/ObserverPatternTest.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordec/PremiumPack.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/Sedan.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordaoandsolo/MySQLDBConection.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordec/BasicPack.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorobserver/EmailNotification.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorobserver/Observer.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorobserver/Subject.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/SUV.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordec/LuxuryWheels.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/SedanFactory.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/Vehicle.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordec/PanoramicSunRoof.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordaoandsolo/extra.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordec/LeatherSeats.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotorco/SUVFactory.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordaoandsolo/UserDAO.java</file>
+            <file>file:/J:/Software%20Engineering/Ulatina/Cuarto%20cuatri/Progra%20con%20patrones/VromMotorProject/VromMotorCo/src/vrommotordec/BusinessPack.java</file>
+        </group>
+    </open-files>
+</project-private>
